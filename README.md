@@ -16,3 +16,5 @@ There are 17034 images in train and 7301 images in test data. The categories of 
 'sea' -> 4,
 'street' -> 5 }
 
+NOTE:
+The code file will be shared after the competition ends.
